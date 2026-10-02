@@ -1,0 +1,6 @@
+name: Student API - Local
+values:
+  - key: spring_password
+    value: ''
+    type: secret
+    enabled: true

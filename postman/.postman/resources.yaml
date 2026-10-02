@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: b2fc9934-68ad-42a3-8d21-8cfcb248e97d
+
+localResources:
+  environments:
+    - ../environments/student-api-local.environment.yaml
